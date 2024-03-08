@@ -40,7 +40,7 @@ npm install
 
 ---
 
-## <img width="32" height="32" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/>  TailwindCSS
+# <img width="32" height="32" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/>  TailwindCSS
 
 1. Follow this steps: [vue-tailwind.css-config](https://guillaumeduhan.medium.com/vue-tailwindcss-config-4c02236ca89c)
 
@@ -84,7 +84,7 @@ createApp(App).mount('#app')
 
 ---
 
-## Architecture
+# <img width="32" height="32" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> Architecture
 
 ```
 > .vscode
