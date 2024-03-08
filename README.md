@@ -3,7 +3,7 @@
 Here you will find my Vue.js practices
 
 
-1. A landing page
+1. A landing page, similar to Tesla
 
 ---
 
@@ -33,6 +33,8 @@ Here you will find my Vue.js practices
 - npm
 
 - Vue.js, if you don't have install please do it with: `npm install vue@next -g`
+
+- Vite
 
 ---
 
