@@ -22,6 +22,18 @@ Here you will find my Vue.js practices
 
 - VSC extension: Vetur of Pine Wu
 
+- Browser extension: [Vue.js devtools](https://devtools.vuejs.org/)
+
+---
+
+## Prerequisites
+
+- Node.js
+
+- npm
+
+- Vue.js, if you don't have install please do it with: `npm install vue@next -g`
+
 ---
 
 ## Please: 🎁
