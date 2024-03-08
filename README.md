@@ -1,6 +1,7 @@
-# VUE.js
+# <img width="32" height="32" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> VUE.js
 
 Here you will find my Vue.js practices
+
 
 1. A landing page
 
@@ -13,10 +14,13 @@ Here you will find my Vue.js practices
 
 - <img width="28" height="28" src="https://img.icons8.com/color/28/css3.png" alt="CSS3 icon"/> CSS3
 
+- <img width="28" height="28" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> TailwindCSS
 
 - <img width="28" height="28" src="https://img.icons8.com/color/28/javascript.png" alt="JavaScript icon"/> JavaScript
 
-- <img width="28" height="28" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> Vue.js
+- [<img width="28" height="28" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> Vue.js](https://vuejs.org/)
+
+- VSC extension: Vetur of Pine Wu
 
 ---
 
