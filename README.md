@@ -36,7 +36,9 @@ Here you will find my Vue.js practices
 
 ## <img width="48" height="48" src="https://img.icons8.com/stickers/48/book-philosophy.png" alt="book philosophy"/> Theory
 
-[At the theory.md ou can see my notes](https://github.com/eugenia1984/vue-js/blob/main/theory.md). I create this notes while I ws learning VUE.js.
+[At the theory.md ou can see my notes](https://github.com/eugenia1984/vue-js/blob/main/theory.md). 
+
+I create this notes while I ws learning VUE.js.
 
 ---
 
