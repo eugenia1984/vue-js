@@ -1,8 +1,9 @@
 <template>
   <div class="container mx-auto">
-    <p>I' m on TailwindCSS</p>
+    <Home />
   </div>
 </template>
 
 <script setup>
+import Home from './views/Home.vue'
 </script>
