@@ -107,3 +107,13 @@ createApp(App).mount('#app')
   vite.config.js
 ```
 ---
+
+## <img width="32" height="32" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/>  Component
+
+- Between the `<template></template>` tags you will see all the **HTML5** code.
+
+- Between de `<script setup></script>` tags you will see all the **JavaScript** code.
+
+- The style would be between the `<style></style>` tags, but in some project it can be using some library (like **TailwindCSS**) and can be using a separate **.css** file with the attribute **class** inside the corresponding tag. 
+
+---
