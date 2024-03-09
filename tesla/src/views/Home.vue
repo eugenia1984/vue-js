@@ -12,8 +12,8 @@
 
 <script>
 import { MainHeader, Nav, Presentation, Stats, Tabs, Footer } from "../components";
-import { reactive, toRefs} from 'vue'
-import ModelSInterior from '../assets/model-s-interior.jpg'
+import { reactive, toRefs } from "vue";
+import ModelSInterior from "../assets/model-s-interior.jpg";
 
 
 export default {
