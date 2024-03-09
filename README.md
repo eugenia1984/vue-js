@@ -3,7 +3,7 @@
 Here you will find my Vue.js practices
 
 
-1. A landing page, similar to Tesla
+1. A landing page of cars.
 
 ---
 
@@ -36,9 +36,9 @@ Here you will find my Vue.js practices
 
 ## <img width="48" height="48" src="https://img.icons8.com/stickers/48/book-philosophy.png" alt="book philosophy"/> Theory
 
-[At the theory.md ou can see my notes](https://github.com/eugenia1984/vue-js/blob/main/theory.md). 
+At the [theory.md file](https://github.com/eugenia1984/vue-js/blob/main/theory.md) you can see my notes. 
 
-I create this notes while I ws learning VUE.js.
+I create this notes while I was learning VUE.js.
 
 ---
 
