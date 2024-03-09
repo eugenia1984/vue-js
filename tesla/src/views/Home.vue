@@ -2,7 +2,7 @@
   <div>
     <Nav />
     <MainHeader />
-    <Presentation v-for="obj, objIndex in presentations" :key="objIndex" :content="obj" />
+    <Presentation v-for="obj, objIndex in presentations" :key="objIndex" :content="obj" class="mb-16"/>
     <!-- <Presentation oriented="right" /> -->
     <Stats />
     <Tabs />
