@@ -1,5 +1,5 @@
 <template>
- <section class="presentation flex flex-col md:flex-row" :class="{'md:flex-row-reverse': !content.left}">
+ <section class="presentation container mx-auto flex flex-col md:flex-row" :class="{'md:flex-row-reverse': !content.left}">
     <div v-for="col, colIndex in content.columns" :key="colIndex" class="flex-1">
       <div v-if="col.imgSrc" :style="`background-image:url(${col.imgSrc}); min-height: 300px;`" class="h-full bg-no-repeat bg-center" :class="col.contain ? 'bg-contain' : 'bg-cover'" />
       <div v-else class="p-8 md:p-24" :class="`bg-${col.backgroundColor} text-${ !content.left ? 'black' : 'white'}`">

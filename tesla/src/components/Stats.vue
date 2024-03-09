@@ -1,7 +1,7 @@
 <template>
   <div class="stats bg-cover bg-no-repeat bg-bottom" :style="`background-image: url(${TeslaBackground}); height: 450px;`">
     <div class="w-full h-full bg-blue-950 opacity-75 absolute z-0" />
-    <div class="stats-components z-50 relative">
+    <div class="stats-components z-50 relative container mx-auto">
       <p class="text-white">some text</p>
     </div>
   </div>

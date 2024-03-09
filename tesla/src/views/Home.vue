@@ -1,12 +1,12 @@
 <template>
   <div>
-    <Nav />
-    <MainHeader />
+    <Nav class="container mx-auto" />
+    <MainHeader class="container mx-auto"/>
     <Presentation v-for="obj, objIndex in presentations" :key="objIndex" :content="obj" class="mb-16"/>
     <!-- <Presentation oriented="right" /> -->
     <Stats />
     <Tabs />
-    <Footer />
+    <Footer class="container mx-auto" />
   </div>
 </template>
 
