@@ -192,7 +192,9 @@ export default {
 
 ```Vue
 <template>
-  <div>{{ content  }}</div>
+  <div class="presentation flex flex-row" :class="{'flex-row-reverse': !content.left}">
+    <div v-for="col, colIndex in content.columns" :key="colIndex" class="flex-1">{{ col }}</div>
+  </div>
 </template>
 
 <script>
@@ -210,4 +212,30 @@ export default {
 </script>
 ```
 
+-> Conditional class example: `:class="{'flex-row-reverse': !content.left}"`
+
+-> Conditional render: using **v-if**:
+
+```VUE
+<div v-if="col.imgSrc">
+  <img :src="col.imgSrc" alt="Tesla car" />
+</div>
+```
+
+-> Class generated with the props: `:class="`bg-${col.backgroundColor}`"`
+
+```VUE
+<template>
+  <section class="presentation flex flex-col md:flex-row" :class="{'md:flex-row-reverse': !content.left}">
+    <div v-for="col, colIndex in content.columns" :key="colIndex" class="flex-1">
+      <div v-if="col.imgSrc">
+        <img :src="col.imgSrc" alt="Tesla car" />
+      </div>
+      <div v-else class="p-8 md:p-24" :class="`bg-${col.backgroundColor}`">
+        <h2>{{ col.title}}</h2>
+      </div>
+    </div>
+  </section>
+</template>
+```
 ---
