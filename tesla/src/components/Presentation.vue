@@ -15,13 +15,10 @@
 </template>
 
 <script>
+import GeneralMixin from "../mixins/GeneralMixin";
+
 export default {
-  props: {
-    content: {
-      default: () => {},
-      type: Object
-    }
-  },
+  mixins: [GeneralMixin],
   setup(props) {
     console.log("props.content: ",props.content)
   }
