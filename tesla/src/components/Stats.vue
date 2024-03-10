@@ -1,12 +1,12 @@
 <template>
-  <div class="stats bg-cover bg-no-repeat bg-bottom relative py-8 lg:pt-32" :style="`background-image: url(${TeslaBackground}); min-height: 332px;`">
+  <section class="stats bg-cover bg-no-repeat bg-bottom relative py-8 lg:py-32 mb-8 lg:mb-32" :style="`background-image: url(${TeslaBackground}); min-height: 332px;`">
     <div class="w-full h-full bg-blue-950 opacity-75 absolute top-0 left-0 z-0" />
-   <div class="container">
+   <div class="container mx-auto">
     <div class="stats-components mx-auto flex flex-col lg:flex-row items-center justify-center w-full z-50 relative lg:absolute px-2 gap-6 lg:gap-2">
       <StatsCard v-for="obj, objIndex in cards" :key="objIndex" :content="obj"/>
     </div>
    </div>
-  </div>
+  </section>
 </template>
 
 <script>
