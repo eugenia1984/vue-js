@@ -16,8 +16,8 @@ export default {
 
 <style>
   .stats-card {
-    min-width: 240px;
-    max-width: 240px;
+    min-width: 200px;
+    max-width: 200px;
     min-height: 300px;
     max-height: 300px;
   }

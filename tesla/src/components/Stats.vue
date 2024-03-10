@@ -1,9 +1,11 @@
 <template>
-  <div class="stats bg-cover bg-no-repeat bg-bottom relative pt-24 mb-48" :style="`background-image: url(${TeslaBackground}); height: 332px; background-position: center bottom-6rem;`">
+  <div class="stats bg-cover bg-no-repeat bg-bottom relative py-8 lg:pt-32" :style="`background-image: url(${TeslaBackground}); min-height: 332px;`">
     <div class="w-full h-full bg-blue-950 opacity-75 absolute top-0 left-0 z-0" />
-    <div class="stats-components z-50 relative container mx-auto flex items-center justify-between">
+   <div class="container">
+    <div class="stats-components mx-auto flex flex-col lg:flex-row items-center justify-center w-full z-50 relative lg:absolute px-2 gap-6 lg:gap-2">
       <StatsCard v-for="obj, objIndex in cards" :key="objIndex" :content="obj"/>
     </div>
+   </div>
   </div>
 </template>
 
