@@ -32,7 +32,7 @@ export default {
           columns: [
             {
               backgroundColor: 'blue-950',
-              title: 'Model S',
+              title: 'Plaid',
               subtitle: 'Beyond Ludicrous',
               description: "Model S Plaid has the quickest acceleration of any vehicle in production. Updated battery architecture for all Model S trims enables back-to-back track runs without performance degradation. Chat with a Tesla Advisor to learn more about Model S or schedule a demo drive today.",
             },
@@ -46,9 +46,9 @@ export default {
           columns: [
             {
               backgroundColor: 'blue-50',
-              title: 'Model 3',
-              subtitle: 'Reengineered',
-              description: "Build for distance: Go up to 341 miles (EPA est.) on a single charge with updated exterior styling optimized for maximum aerodynamics.",
+              title: 'Exterior',
+              subtitle: 'Designed for Efficiency',
+              description: "With a drag coefficient of just .208 Cd, the lowest on the planet, Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more responsive performance so you can take corners quicker and with more confidence.",
             },
             {
               imgSrc: ModelSInterior,

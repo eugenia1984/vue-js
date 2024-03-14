@@ -1,15 +1,28 @@
-# Tesla landing page
+# <img width="48" height="48" src="https://img.icons8.com/color/48/tesla-logo.png" alt="tesla logo"/> Tesla landing page
 
-### Vue 3 + Vite
+A practice with Vue.js and Tailwind, creating a simple landing page of cars.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+---
 
-## Recommended IDE Setup
+## <img width="30" height="30" src="https://img.icons8.com/cotton/30/monitor--v1.png" alt="monitor"/> Technologies
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+| Technologies |
+| ------------ |
+| <img width="28" height="28" src="https://img.icons8.com/color/28/html-5--v1.png" alt="HTML5 icon"/> HTML5 |
+| <img width="28" height="28" src="https://img.icons8.com/color/28/css3.png" alt="CSS3 icon"/> CSS3 |
+| <img width="28" height="28" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwind.css"/> TailwindCSS |
+| <img width="28" height="28" src="https://img.icons8.com/color/28/javascript.png" alt="JavaScript icon"/> JavaScript |
+| [<img width="28" height="28" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> Vue.js](https://vuejs.org/) |
+| VSC extension: Vetur of Pine Wu |
+| Browser extension: [Vue.js devtools](https://devtools.vuejs.org/) |
 
-## Commands
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/command-line.png" alt="command line"/> Commands
 
 `npm install` -> to install the dependencies
 
-`npm run dev` -> to run the project locally
+`npm run dev` -> to run the project locally at: [http://localhost:5173/](http://localhost:5173/)
+
+---
