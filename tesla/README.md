@@ -27,3 +27,17 @@ A practice with Vue.js and Tailwind, creating a simple landing page of cars.
 `npm run dev` -> to run the project locally at: [http://localhost:5173/](http://localhost:5173/)
 
 ---
+
+## Sections
+
+Header with Navbar and Hero image:
+
+![image](https://github.com/eugenia1984/vue-js/assets/72580574/e4c9ed06-e340-41ed-8dff-3b46493d3e27)
+
+Reusable componentes: `<Presentation>`
+
+![image](https://github.com/eugenia1984/vue-js/assets/72580574/749bbef8-dcfa-42e0-a107-6e2c2a011fee)
+
+Cards + Tabs * Footer
+
+![image](https://github.com/eugenia1984/vue-js/assets/72580574/fb351563-cb68-4554-a655-0e8ea535f3a9)
