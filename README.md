@@ -17,6 +17,7 @@ Here you will find my Vue.js practices
 | <img width="28" height="28" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwind.css"/> TailwindCSS |
 | <img width="28" height="28" src="https://img.icons8.com/color/28/javascript.png" alt="JavaScript icon"/> JavaScript |
 | [<img width="28" height="28" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vue.js"/> Vue.js](https://vuejs.org/) |
+| [https://animate.style/](https://animate.style/) |
 | VSC extension: Vetur of Pine Wu |
 | Browser extension: [Vue.js devtools](https://devtools.vuejs.org/) |
 

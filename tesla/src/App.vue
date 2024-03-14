@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Home />
+    <Home class="animate__animated animate__fadeIn animate__slower"/>
   </div>
 </template>
 

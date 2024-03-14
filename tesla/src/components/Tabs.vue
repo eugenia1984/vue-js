@@ -10,9 +10,9 @@
     </header>
     <section class="container mx-auto">
       <section 
-        class="container mx-auto bg-contain bg-no-repeat flex items-center justify-center px-3" 
-        :style="`background-image: url(${getActiveTabContent.imgSrc}); min-height: 500px;`">
-        <div class="mb-16">
+        class="container mx-auto bg-blue-950 rounded-md text-white bg-contain bg-no-repeat flex items-center justify-center px-3" 
+        :style="`min-height: 500px;`">
+        <div class="mb-16 px-8">
           <h2 class="text-4xl uppercase font-bold mb-4">{{ getActiveTabContent.title}}</h2>
           <p v-html="getActiveTabContent.description" />
         </div>
