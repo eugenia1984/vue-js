@@ -3,7 +3,7 @@
 Here you will find my Vue.js practices
 
 
-1. [A landing page of cars.](https://github.com/eugenia1984/vue-js/tree/main/tesla)
+1. [A landing page of cars.](https://github.com/eugenia1984/vue-js/tree/main/tesla). At: [https://landing-tesla-vue.netlify.app/](https://landing-tesla-vue.netlify.app/) you can see it deployed.
 
 ---
 

@@ -2,6 +2,8 @@
 
 A practice with Vue.js and Tailwind, creating a simple landing page of cars.
 
+At: [https://landing-tesla-vue.netlify.app/](https://landing-tesla-vue.netlify.app/) you can see it deployed
+
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/cotton/30/monitor--v1.png" alt="monitor"/> Technologies
