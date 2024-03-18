@@ -40,6 +40,6 @@ Reusable componentes: `<Presentation>`
 
 ![image](https://github.com/eugenia1984/vue-js/assets/72580574/749bbef8-dcfa-42e0-a107-6e2c2a011fee)
 
-Cards + Tabs * Footer
+Cards + Tabs + Footer
 
 ![image](https://github.com/eugenia1984/vue-js/assets/72580574/fb351563-cb68-4554-a655-0e8ea535f3a9)
